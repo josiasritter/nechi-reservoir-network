@@ -1,0 +1,2 @@
+# nechi-reservoir-network
+This repository contains Matlab code describing a operational model of the reservoir network in the Nechí catchment, Colombia, and a behavioural component simulating operational strategies depending on 12 parameters. The codes are directly related to the publication (in submission): "Multi-objective optimization of physically based operational rules for multi-reservoir systems" - J. Ritter, G. Corzo, D.P. Solomatine, H. Angarita (2017)
